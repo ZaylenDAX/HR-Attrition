@@ -110,6 +110,8 @@ The dataset (`Employee Data.xlsx`) contains employee-level records including:
 ---
 
 ## 📁 Project Structure
+- [Data](Data) #Contains the .xlsx file for the project
+- [Visuals](Visuals) #Contains the pictures of the dashboard
 
 ---
 
