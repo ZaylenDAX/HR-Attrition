@@ -7,6 +7,8 @@ The objective is to help HR leadership understand **who is leaving, why they are
 
 The analysis focuses on employee **demographics, tenure, performance, compensation, employees, and departments** to support better workforce planning and retention strategies.
 
+<img src="Visuals/EXECUTIVE OVERVIEW.png" alt="Image">
+
 
 ---
 
